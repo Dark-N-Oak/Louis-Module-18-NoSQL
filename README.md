@@ -17,3 +17,4 @@ Lastly, I made sure to leave the code better than I found it.
 ![Screenshot 2024-08-13 203633](https://github.com/user-attachments/assets/d8de6e93-f7ab-41d8-9376-eba50ed58ab4)
 
 ## Walkthrough video
+https://drive.google.com/file/d/1nriPsXTaYAYeTzecjbVu8HnVtsEtzRKw/view?usp=sharing
